@@ -5,7 +5,7 @@ export default function Welcome() {
     return (
         <section>
             <header>Gelia Direct</header>
-            {/* <a href='./LogIn.js'>Log In</a> */}
+            <LogInForm />
         </section>
     )
 }
